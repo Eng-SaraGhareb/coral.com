@@ -7,7 +7,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.testng.CucumberFeatureWrapper;
 import cucumber.api.testng.TestNGCucumberRunner;
 
-public class Runner {
+
     @CucumberOptions(
             features = "src/test/java/API",
             glue = {"stepDefinitions"},
@@ -48,4 +48,3 @@ public class Runner {
         }
 
     }
-}
