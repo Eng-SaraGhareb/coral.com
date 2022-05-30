@@ -24,5 +24,5 @@ Then validate the response of this user record having first name as "<firstname>
 Examples:
    
    |id | firstname  |
-   |1  | Sara       |
+   |10 | Sara       |
    

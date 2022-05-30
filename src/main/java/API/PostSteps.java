@@ -25,7 +25,7 @@ public class PostSteps {
 	    map.put("username", "test");
 	    map.put("firstName","sara");
 	    map.put("lastName", "ghareb");
-	    map.put("orders","101");
+	    map.put("orders","100");
 
 	    }
 	   
